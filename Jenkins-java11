@@ -5,7 +5,7 @@ java 11 + maven 3.8.6 + jenkins
 sudo amazon-linux-extra ---notfound so the solution 
 run the command below
 sudo dnf install java-11-amazon-corretto -y
-==> find / -name java-11*
+==> find / -name java-11*                   once find---/usr/lib/jvm/java-11-amazon-corretto.x86_64
 /usr/lib/jvm/java-11-openjdk-11.0.13.0.8-1.amzn2.0.3.x86_64
 
 2. install maven
