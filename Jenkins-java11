@@ -14,6 +14,7 @@ sudo dnf install java-11-amazon-corretto -y
 ==> tar -xvzf apache-maven-3.8.6-bin.tar.gz
 ==> mv apache-maven-3.8.6 maven
 ==> cd maven/bin == > ./mvn 
+once install maven in cloud then get the path ---pwd --- /opt/maven/bin
 3. make it global
 ==> cd ==> ls -la ==> nano .bash_profile
 =======================================================================
