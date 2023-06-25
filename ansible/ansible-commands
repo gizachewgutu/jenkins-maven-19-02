@@ -1,3 +1,5 @@
+general link-https://github.com/vikas99341/Ansible/blob/main/playbook/variable-playbook
+
 sudo amazon-linux-extras install ansible2
 cd /etc/ansible
 edit your hosts file
