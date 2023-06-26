@@ -9,7 +9,7 @@ configuration on master:
 ========================
 login as jenkinsadmin on your master machine
 
-useradd jenkinsadmin
+useradd jenkinsadmin               -------------->to see the user added cat /etc/passwd
 passwd jenkinsadmin = pass123
 
 visudo == jenkinsadmin ALL=(ALL)       ALL
