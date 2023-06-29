@@ -1,3 +1,9 @@
+
+   To give hostname for terminals 
+sudo su -
+hostname master 
+sudo su -
+=============================================
 party -- invitation card + list of invitees 
 invite -- > invitation card
 day he comes to party -- > invitation card === list of invitees ==> Entry
